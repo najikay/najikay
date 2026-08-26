@@ -1,4 +1,4 @@
-# Hi, I'm Naji 👋
+# Hi, I'm Naji
 
 Computer Science student at the University of Haifa (B.Sc., graduating March 2027), focused on **robotics, SLAM, and computer vision**, with a strong side interest in **multi-agent LLM systems**.
 
@@ -19,4 +19,4 @@ Computer Science student at the University of Haifa (B.Sc., graduating March 202
 - Leading a three-person team building a full-stack exam-management system (Java, client-server) for our software engineering course.
 - Heading toward a master's in robotics/SLAM.
 
-📫 najikayal4@gmail.com
+email: najikayal4@gmail.com
