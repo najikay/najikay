@@ -20,6 +20,9 @@ Computer Science student at the University of Haifa (B.Sc., graduating March 202
 **Data science**
 - [fraud-detection-ds](https://github.com/najikay/fraud-detection-ds) - reproduction and critical evaluation of a credit-card fraud detection model: found and fixed a data leak behind a "perfect" AUC, with a leak-free MLP baseline and feature-engineering ablation.
 
+**Earlier work**
+- [itch.io](https://najikayal.itch.io/) - five small browser games built in Unity and C# for a game-development course, before LLM coding assistants existed.
+
 ## Currently
 
 - Finishing my B.Sc. (final semester, graduating March 2027) and heading toward a master's in robotics/SLAM.
