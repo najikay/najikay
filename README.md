@@ -1,12 +1,15 @@
 # Hi, I'm Naji
 
-Computer Science student at the University of Haifa (B.Sc., graduating March 2027), focused on **robotics, SLAM, and computer vision**, with a strong side interest in **multi-agent LLM systems**.
+Computer Science student at the University of Haifa (B.Sc., graduating February 2027), focused on **robotics, SLAM, and computer vision**, with a strong side interest in **multi-agent LLM systems**.
 
 ## What I build
 
+**Claude plugins**
+- [Research Desk](https://github.com/najikay/claude-research-skills) - published in the Claude plugin directory. Research skills for Claude (citation checking, literature notes, decision matrices, multi-answer review) with a standard-library MCP server that verifies references against OpenAlex and arXiv.
+- [Sim Lab](https://github.com/najikay/claude-simlab) - under review for the Claude plugin directory. A robotics simulation lab for Claude: swarms, formations, coverage and EKF cooperative localisation over lossy radio, plus a synthetic visual-odometry world scored by ATE/RPE, run as reproducible experiments through a 12-tool MCP server.
+
 **3D vision & SLAM**
 - [Monocular-SLAM-Pipeline](https://github.com/najikay/Monocular-SLAM-Pipeline) - visual odometry and sparse 3D reconstruction from scratch: ORB tracking, EPnP + Gauss-Newton pose refinement, keyframe triangulation, loop closure. ATE 0.34 m (~1.8% drift) on TUM RGB-D.
-- [computer-vision-lab](https://github.com/najikay/computer-vision-lab) - four vision projects: metric reconstruction, Structure from Motion with COLMAP (PnP benchmarking, novel view synthesis), few-shot benchmarking of vision foundation models with a custom adapter, and differentiable 2D Gaussian Splatting with PCA initialization.
 
 **Software engineering**
 - [exam-management-system](https://github.com/najikay/hsts-v2) - full-stack exam-management platform (Java client-server): question bank, exam authoring, approval workflow, live exam delivery, grading, and reports. Led the three-person team - frozen wire contracts, per-PR review reports, CI. Built as our university semestral project.
@@ -22,6 +25,6 @@ Computer Science student at the University of Haifa (B.Sc., graduating March 202
 
 ## Currently
 
-- Finishing my B.Sc. (final semester, graduating March 2027) and heading toward a master's in robotics/SLAM.
+- Finishing my B.Sc. (final semester, graduating February 2027) and heading toward a master's in robotics/SLAM.
 
 email: najikayal4@gmail.com
