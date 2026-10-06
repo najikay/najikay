@@ -4,9 +4,12 @@ Computer Science student at the University of Haifa (B.Sc., graduating February 
 
 ## What I build
 
-**Claude plugins**
+**Claude plugins & MCP**
 - [Research Desk](https://github.com/najikay/claude-research-skills) - published in the Claude plugin directory. Research skills for Claude (citation checking, literature notes, decision matrices, multi-answer review) with a standard-library MCP server that verifies references against OpenAlex and arXiv.
+- [Study Desk](https://github.com/najikay/claude-study-desk) - published in the Claude plugin directory. Six study skills (flashcards with Anki export, quizzes, grading, explanations, revision plans, mock exams), every item tied to the material you give it; anything added from outside is labelled. Evals: 68/75 checks with the plugin vs 24/75 without.
+- [Career Desk](https://github.com/najikay/claude-career-desk) - published in the Claude plugin directory. Seven skills that take you from a CV and a job posting to an honest application, built for entry-level candidates; it works only from your facts and lists every change it makes.
 - [Sim Lab](https://github.com/najikay/claude-simlab) - under review for the Claude plugin directory. A robotics simulation lab for Claude: swarms, formations, coverage and EKF cooperative localisation over lossy radio, plus a synthetic visual-odometry world scored by ATE/RPE, run as reproducible experiments through a 12-tool MCP server.
+- Research Desk checker - the hosted MCP server behind Research Desk's reference verification, under review as a standalone MCP server.
 
 **3D vision & SLAM**
 - [Monocular-SLAM-Pipeline](https://github.com/najikay/Monocular-SLAM-Pipeline) - visual odometry and sparse 3D reconstruction from scratch: ORB tracking, EPnP + Gauss-Newton pose refinement, keyframe triangulation, loop closure. ATE 0.34 m (~1.8% drift) on TUM RGB-D.
