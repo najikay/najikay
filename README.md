@@ -12,7 +12,7 @@ Computer Science student at the University of Haifa (B.Sc., graduating February 
 - Research Desk checker - the hosted MCP server behind Research Desk's reference verification, under review as a standalone MCP server.
 
 **3D vision & SLAM**
-- [Monocular-SLAM-Pipeline](https://github.com/najikay/Monocular-SLAM-Pipeline) - RGB-D visual odometry and sparse mapping from scratch: ORB tracking, depth-based EPnP + Gauss-Newton pose refinement, two-view keyframe triangulation, loop-closure detection. ATE 0.34 m on a TUM RGB-D sequence.
+- [rgbd-visual-odometry](https://github.com/najikay/rgbd-visual-odometry) - RGB-D visual odometry and sparse mapping from scratch: ORB tracking, depth-based EPnP + Gauss-Newton pose refinement, two-view keyframe triangulation, loop-closure detection. ATE 0.34 m on a TUM RGB-D sequence.
 - [computer-vision-lab](https://github.com/najikay/computer-vision-lab) - four vision projects: metric reconstruction, Structure from Motion with COLMAP (PnP benchmarking, novel view synthesis), few-shot benchmarking of vision foundation models with a custom adapter, and differentiable 2D Gaussian Splatting with PCA initialization.
 
 **Software engineering**
